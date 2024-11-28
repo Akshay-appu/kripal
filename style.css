@@ -113,6 +113,7 @@ nav.sticky .menu-btn{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+   background: url(img/bg_video.gif) no-repeat center;
   font-family: 'Ubuntu', sans-serif;
 }
 .imge {
